@@ -1,0 +1,21 @@
+DAX 
+```
+Average rating star design 
+4.2 = REPT(UNICHAR(9733), [Average Rating]) & REPT(UNICHAR(9734), 5 - [Average Rating])
+
+Average Rating = 
+ROUND(AVERAGE('Womens Clothing E-Commerce Revi'[Rating]),2)
+
+Total Clothing = 
+DISTINCTCOUNT('Womens Clothing E-Commerce Revi'[Clothing ID])
+
+Total Positive Feedback = 
+CALCULATE(SUM('Womens Clothing E-Commerce Revi'[Positive Feedback Count]), 'Womens Clothing E-Commerce Revi'[Positive Feedback Count] <> 0)
+
+Total Rating = 
+COUNT('Womens Clothing E-Commerce Revi'[Rating])
+
+Total Recommended = 
+COUNT('Womens Clothing E-Commerce Revi'[Recommended])
+
+```
