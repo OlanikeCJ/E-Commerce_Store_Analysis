@@ -1,5 +1,4 @@
-DAX 
-```
+DAX ```
 Average rating star design 
 4.2 = REPT(UNICHAR(9733), [Average Rating]) & REPT(UNICHAR(9734), 5 - [Average Rating])
 
