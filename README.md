@@ -1,10 +1,12 @@
 # E-Commerce_Store_Analysis
 
+
 ## Project Overview
 
 In this project, I provided insights into customer reviews from a women's clothing e-commerce store. The dataset includes 23,486 reviews with variables such as ratings, recommendations, feedback counts, and product categories. The analysis aims to uncover patterns in customer preferences and satisfaction.
 
 ## Data Cleaning Process
+![cleaned](https://github.com/OlanikeCJ/E-Commerce_Store_Analysis/blob/main/Images%20-%20Women's%20Ecommerce/cleaned_data.png?raw=true)
 
 To ensure data accuracy and consistency, the following preprocessing steps were performed:
 
