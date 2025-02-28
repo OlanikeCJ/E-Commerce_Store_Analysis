@@ -25,7 +25,7 @@ A snapshot of the cleaned data has been included below:
 
 ## Calculations
 
-Click [DAX] to find simple DAX measures used to calculate key metrics.
+Click [DAX](https://github.com/OlanikeCJ/E-Commerce_Store_Analysis/blob/main/DAX%20Measures) to find simple DAX measures used to calculate key metrics.
 
 
 ## Key Insights
