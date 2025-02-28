@@ -7,15 +7,15 @@ In this project, I provided insights into customer reviews from a women's clothi
 
 ## Data Cleaning Process
 
-To ensure data accuracy and consistency, the following preprocessing steps were performed:
+To ensure data accuracy and consistency, I performed the following preprocessing steps:
 
-> * Removed Unwanted Columns: I dropped columns that were not necessary for the analysis.
+> * Removed Unwanted Columns: Dropped columns that were not necessary for the analysis.
 
-> * Handled Missing Data: I replaced empty values with "No Data" to maintain consistency.
+> * Handled Missing Data: Replaced empty values with "No Data" to maintain consistency.
 
-> * Changed Data Types: I adjusted column types where necessary to ensure proper calculations.
+> * Changed Data Types: Adjusted column types where necessary to ensure proper calculations.
 
-> * Renamed Columns: changed some column names for clarity.
+> * Renamed Columns: Changed some column names for clarity.
 
 > * Created New Columns: I also introduced an "Age Category" column to group customers into "Young Adults," "Middle-Aged Adults," and "Elderly."
 
@@ -28,7 +28,7 @@ A snapshot of the cleaned data has been included below:
 Click [DAX](https://github.com/OlanikeCJ/E-Commerce_Store_Analysis/blob/main/DAX%20Measures) to find simple DAX measures used to calculate key metrics.
 
 
-## Key Insights
+## Key Insights Generated
 
 ### 1. Class Distribution by Recommendation
 - Dresses received the highest number of recommendations.
